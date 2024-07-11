@@ -1,2 +1,4 @@
 # HIT_Advanced_Programming_Workshop_FInal_Project
-A game i created for my B.Sc. in computer science bachelor degree
+A game I created for my B.Sc. in computer science bachelor's degree.
+It's a D&D style game with all random dice toss, damage, armour and more.
+I also add a UI with a lot of visual background and sound effects.
